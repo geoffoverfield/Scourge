@@ -1,0 +1,79 @@
+﻿Build started 3/7/2016 13:19:16.
+     1>Project "C:\Users\Geoff\documents\visual studio 2013\Projects\Scourge\Scourge\Scourge.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BOSS.cpp Main.cpp NPC.cpp Player.cpp TreasureChest.cpp
+         TreasureChest.cpp
+         Player.cpp
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\npc.h(21): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         NPC.cpp
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\npc.h(21): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Main.cpp
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(355): warning C4102: 'close' : unreferenced label
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(404): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(404): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(415): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(415): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(426): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(426): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(437): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(437): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(448): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(448): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(459): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(459): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(470): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(470): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(481): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(481): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(492): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(492): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(503): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(503): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(514): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(514): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(546): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(546): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(612): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(612): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(684): warning C4060: switch statement contains no 'case' or 'default' labels
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(696): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(696): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(711): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(711): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(726): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(726): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(741): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(741): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(756): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(756): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(771): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(771): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(786): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(786): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(801): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(801): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(816): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(816): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(831): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(831): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(846): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(846): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(861): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(861): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(876): warning C4804: '+=' : unsafe use of type 'bool' in operation
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\main.cpp(876): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+         BOSS.cpp
+     1>c:\users\geoff\documents\visual studio 2013\projects\scourge\scourge\boss.cpp(46): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Geoff\documents\visual studio 2013\Projects\Scourge\Debug\Scourge.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Geoff\documents\visual studio 2013\Projects\Scourge\Debug\Scourge.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Geoff\documents\visual studio 2013\Projects\Scourge\Debug\Scourge.lib" /MACHINE:X86 Debug\BOSS.obj
+         Debug\Main.obj
+         Debug\NPC.obj
+         Debug\Player.obj
+         Debug\TreasureChest.obj
+         Scourge.vcxproj -> C:\Users\Geoff\documents\visual studio 2013\Projects\Scourge\Debug\Scourge.exe
+     1>Done Building Project "C:\Users\Geoff\documents\visual studio 2013\Projects\Scourge\Scourge\Scourge.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.54
